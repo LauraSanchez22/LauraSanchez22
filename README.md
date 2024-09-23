@@ -1,4 +1,4 @@
-##Aquí encontraras información sobre mi experiencia profesional y proyectos👋
+Aquí encontraras información sobre mi experiencia profesional y proyectos👋
 
 <!--
 **LauraSanchez22/LauraSanchez22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
