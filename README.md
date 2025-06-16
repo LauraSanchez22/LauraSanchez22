@@ -1,51 +1,65 @@
-##¡Hola! 👋 Soy Laura Lizbeth Sanchez Ramirez
 
-##Estudiante de Ingenieria en Computación / Apasionada por la tecnología / Admiradora de los sistemas embebidos
+# Hey, I'm Laura! | Software and Embedded Systems Engineer.
 
-###Sobre Mí
+I am an engineer passionate about innovation in semiconductors and embedded systems, with experience in the design, verification, and optimization of electronic circuits. My approach combines software development with hardware integration, allowing me to contribute to the creation of advanced technological solutions.
 
 
-¡Hola! Soy una estudiante en Ingeniería en Computación con amplios conocimientos tecnológicos en la creación de aplicaciones web interactivas, elegantes y funcionales, de igual forma, me agrada profundizar en el aprendizaje de sistemas embebidos en diversos ámbitos tecnológicos (ESP32WROOM, PIC16, PIC18, PIC24, Arduino).
 
-##Lenguajes y Herramientas
+## Acknowledgements
 
-*Lenguajes:
--->HTML5
--->CSS3 (Sass, Bootstrap)
--->Javascript
+ - [Embedded Systems Programming using ANSI C .- Microchip Technology](https://academy.dignal.com/certificado-de-tutor?cert_hash=e376a0ac7f730d4b)
+ - [Microcontroller  Programming using C and MPLAB® Code Configurator .- Microchip Technology](https://academy.dignal.com/alu-01mcpp22725/)
+ - [USB Communication with  PIC® Microcontroller .- Microchip Technology](https://academy.dignal.com/alu-01mcpp22742/)
 
-*Frameworks/Librerías:
--->Node.js
--->React.js
+ - [Linux Commands & Shell Scripting Essentials .- Meta](https://www.coursera.org/account/accomplishments/records/HKKAU65032EZ)
 
-*Otras Herramientas:
--->Git / GitHub
--->Figma
--->Trello
+- [Secure Architecture and Design Resources (CompTIA Security+ SY0-601) .- LinkedIn](https://www.linkedin.com/in/laura-s-b266282a6/details/certifications/)
 
-*Otros lenguajes:
--->C
--->C++
--->Java
--->Python
--->Mysql
+- [Meta Android Developer .- Meta](https://www.coursera.org/account/accomplishments/specialization/XTWKB75NNMSD)
 
-##Qué Hago
+## 🛠 Skills
+- Design and verification of analog and digital circuits applied to memory systems.
 
-*Desarrollo de software: codificación, implementación de soluciones, seguimiento de procesos, documentación, etc.
-*Creación de sitios web: estructuración amigable, responsiva y funcional.
-*Navegación interactiva: implementación de UI/UX para mejorar experiencia con el usuario.
-*Innovación tecnológica: creación de programas embebidos funcionales con ESPWROOM32, PIC y Arduino.
-*Dominio de Proteus: construccion de circuitos electrónicos.
+- Semiconductor modeling and simulation using tools such as Proteus, SolidWorks, and Tinkercad.
 
-##Mis proyectos
+- Programming in C/C++, with emphasis on embedded systems and PIC microcontrollers.
 
-*Ice Flow: el trabajo se basa en la construcción de un sistema de enfriamiento por aire por medio del control de velocidades PWM con ventiladores cooler master.
-*Manual de sensores: la estructuración del documento se basa en la investigación y aplicación de prácticas orientadas en el funcionamiento de varios sensores programados en Arduino por medio del ESP WROOM 32.
-*Manual SQL: el documento contiene los comandos para estructuración de una base de datos.
+- Logic optimization and circuit layout to improve performance and efficiency.
 
-##Mi Trayectoria de Aprendizaje
-*Adquisición de conocimiento de React Nativo para aplicaciones móviles en Android.
-*Continuidad de estudio en Javascript.
-*Profundización de fundamentos orientados a sistemas embebidos.
-*Ampliar entendimiento sobre el manejo del sistema operativo Linux.
+- Interdisciplinary collaboration, working as a team in dynamic environments to drive innovation.
+## Tecnologías y Lenguajes
+
+**C/C++** (Embedded systems, microcontrollers).
+
+**Javascripit:** (Web and UI development with React).
+
+**Kotlin** (Mobile development, Android Studio).
+
+**HTML,** **CSS,** **Bootstrap** (Web structure and design).
+
+## Frameworks y Herramientas:
+
+
+
+👩‍💻 Front-end: React, React Native.
+
+🧠 Back-end: Node.js, Express.
+
+⚡️ IDE and Development: MPLAB X IDE, Visual Studio, IntelliJ IDEA, Android Studio, Arduino IDE.
+
+💬 Simulation and Design: Proteus, SolidWorks, Tinkercad, CRUMB.
+
+👯‍♀️ Version control: GitHub.
+
+📫 Protocols and Security: ONVIF, Secure Architecture.
+
+
+
+
+
+
+## GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LauraSanchez22&theme=noctis-minimus)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
