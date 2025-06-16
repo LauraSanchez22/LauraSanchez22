@@ -11,7 +11,6 @@
 
 I am an engineer passionate about innovation in semiconductors and embedded systems, with experience in the design, verification, and optimization of electronic circuits. My approach combines software development with hardware integration, allowing me to contribute to the creation of advanced technological solutions.
 
-I am an engineer passionate about innovation in semiconductors and embedded systems, with experience in the design, verification, and optimization of electronic circuits. My approach combines software development with hardware integration, allowing me to contribute to the creation of advanced technological solutions.
 
 
 
