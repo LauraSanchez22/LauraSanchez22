@@ -1,10 +1,13 @@
 
 # Hey, I'm Laura! | Software and Embedded Systems Engineer.
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)www.linkedin.com/in/laura-s-b266282a6
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+www.linkedin.com/in/laura-s-b266282a6
 
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)LauraSanchez22
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+LauraSanchez22
+
 
 I am an engineer passionate about innovation in semiconductors and embedded systems, with experience in the design, verification, and optimization of electronic circuits. My approach combines software development with hardware integration, allowing me to contribute to the creation of advanced technological solutions.
 
