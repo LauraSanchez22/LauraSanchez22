@@ -32,7 +32,8 @@ I am an engineer passionate about innovation in semiconductors and embedded syst
 - Interdisciplinary collaboration, working as a team in dynamic environments to drive innovation.
 ## Tecnologías y Lenguajes
 
-**R, SQL y Python** (Statistical analysis, data manipulation, predictive modeling, and data visualization.)
+**R, SQL and Python** (Statistical analysis, data manipulation, predictive modeling, and data visualization.)
+
 **C/C++** (Embedded systems, microcontrollers).
 
 **Javascripit:** (Web and UI development with React).
